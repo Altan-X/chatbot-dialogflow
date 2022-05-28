@@ -8,13 +8,12 @@ Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticesh
 1. `Agent` - actual chatbot
 2. `Utterance` - *triggers* the interaction to begin; from the user
 3. `Intent` - why/what from the user
-
-  + `Training Phrases` 
-  + `Actions & Parameters`  
-     - configure this to respond to user intent and give approriate response  
-     - define variables to collect and store  
-  + `Response`  
-    - action
+    - `Training Phrases` 
+    - `Actions & Parameters`  
+        - configure this to respond to user intent and give approriate response  
+        - define variables to collect and store  
+    - `Response`  
+        - action
 
 5. `Invocation` - what the user says
 6. `Invocation name` - found within the  `invocation`
@@ -25,9 +24,8 @@ Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticesh
 ## Process
 1. User Utterance - what the user says that will *activate* the chatbot
 2. Intent Matching 
-
-  + information from User Utterance
-  + process of mapping among series of training phrases to match the user `Intent` 
+    - information from User Utterance
+    - process of mapping among series of training phrases to match the user `Intent` 
 
 3. Response - static or dynamic action; the Intent acted on for the user
 
