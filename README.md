@@ -10,6 +10,8 @@ Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticesh
 *Post-Apprenticeship*
 + [ ] Replicate Koach Karlo's [sample](https://glitch.com/~kadakareer-fb-messenger-sample)
 + [ ] Fix repo or write a blog
+        - [ ] Review Livemark
+        - [ ] Activate Gitpages
 
 ## What is DialogFlow
 
