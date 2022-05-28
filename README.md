@@ -1,6 +1,11 @@
 # chatbot-dialogflow
 Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticeship 2022
 
+## To-Do
++ [X] Figure out button prompts
++ [] Connect button prompts with intents
++ 
+
 ## What is DialogFlow
 
 ## DialogFlow Terminologies
@@ -29,7 +34,7 @@ Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticesh
 
 3. Response - static or dynamic action; the Intent acted on for the user
 
-## Steps
+## General Process
 1. Create `Agent`
 2. Under Settings, switch on Beta access to API and save
 3. Knowledge Tab > feed the document (under construction) 
