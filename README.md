@@ -2,10 +2,13 @@
 Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticeship 2022
 
 ## To-Do
+*Mid-Apprenticeship*
 + [X] Figure out button prompts
 + [ ] Connect button prompts with intents
 + [ ] Explore Context, Entities, and Events
-+ [ ] Replicate Koach Karlo's sample
+
+*Post-Apprenticeship*
++ [ ] Replicate Koach Karlo's [sample](https://glitch.com/~kadakareer-fb-messenger-sample)
 + [ ] Fix repo or write a blog
 
 ## What is DialogFlow
