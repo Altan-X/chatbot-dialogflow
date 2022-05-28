@@ -3,8 +3,10 @@ Building a chatbot using DialogFlow as part of KadaKareer's Virtual Apprenticesh
 
 ## To-Do
 + [X] Figure out button prompts
-+ [] Connect button prompts with intents
-+ 
++ [ ] Connect button prompts with intents
++ [ ] Explore Context, Entities, and Events
++ [ ] Replicate Koach Karlo's sample
++ [ ] Fix repo or write a blog
 
 ## What is DialogFlow
 
